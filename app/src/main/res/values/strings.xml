@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">attendance</string>
+    <string name="departments">Select your department</string>
+</resources>
